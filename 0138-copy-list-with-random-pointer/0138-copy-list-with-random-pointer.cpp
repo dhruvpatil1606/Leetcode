@@ -23,15 +23,9 @@ public:
             return {};
         }
 
-        Node *newNode=new Node(0); // creating a copy linkd list starting
-
-        Node *newNode_add=new Node(0);
-        newNode_add->next=newNode; // pointing to first node of copylinked list
+        Node *newNode=new Node(0); // creating a copy linkd list starting        
         
         Node *head2=newNode; //returning pointer og copy list                
-
-        Node *head_add=new Node(0); 
-        head_add->next=head; // pointing to first node of original linked list        
         
         Node *ptr=head; //assigning pointer to copy original list and next pointer
         while(ptr!=NULL)
