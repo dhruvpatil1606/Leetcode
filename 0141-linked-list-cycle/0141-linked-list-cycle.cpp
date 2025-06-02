@@ -31,42 +31,37 @@ public:
 
         // without extra space......
 
+        if(head==NULL || head->next==NULL) return false;                          
+        
         ListNode *slow=head;
-        ListNode *fast=head;
+        ListNode *fast=head->next;
 
-        if(slow==NULL) return false;
-        // if(fast->next==fast) return true;   
-        if(fast->next==NULL) return false;        
-        // if(fast->next->next==slow) return true;   
+        //fast ans slow pointer
+        
+        while(slow!=fast)
+        {
+            if(fast==NULL || fast->next==NULL) return false;
 
-        // while(slow!=fast)
-        // {
-        //     if(slow==NULL || fast==NULL) return false;
-
-        //     fast=fast->next->next;
-        //     slow=slow->next;
-
-        //     // int slow_add=slow-fast;
-        //     // int fast_add=fast-slow;
-
-        //     // if(fast==slow) return true;
-        //     // else if(fast_add<slow_add) return false;
-        //     // else return true;
-        // }
-        // return true;
-
-        fast=fast->next;
-        while(slow!=NULL || fast!=NULL)
-        {            
-            if(fast<=slow) return true;
-            else{
-                slow=slow->next;
-                fast=fast->next;
-            }
-
-            if(fast==NULL) return false;
+            fast=fast->next->next;
+            slow=slow->next;
         }
+        return true;
 
-        return false;
+
+        // based on address cheking
+
+        // fast=fast->next;
+        // while(slow!=NULL || fast!=NULL)
+        // {            
+        //     if(fast<=slow) return true;
+        //     else{
+        //         slow=slow->next;
+        //         fast=fast->next;
+        //     }
+
+        //     if(fast==NULL) return false;
+        // }
+
+        // return false;
     }
 };
