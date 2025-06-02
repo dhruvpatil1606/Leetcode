@@ -38,30 +38,30 @@ public:
 
         //fast ans slow pointer
         
-        while(slow!=fast)
-        {
-            if(fast==NULL || fast->next==NULL) return false;
+        // while(slow!=fast)
+        // {
+        //     if(fast==NULL || fast->next==NULL) return false;
 
-            fast=fast->next->next;
-            slow=slow->next;
-        }
-        return true;
+        //     fast=fast->next->next;
+        //     slow=slow->next;
+        // }
+        // return true;
 
 
         // based on address cheking
 
-        // fast=fast->next;
-        // while(slow!=NULL || fast!=NULL)
-        // {            
-        //     if(fast<=slow) return true;
-        //     else{
-        //         slow=slow->next;
-        //         fast=fast->next;
-        //     }
+        fast=head->next;
+        while(slow!=NULL || fast!=NULL)
+        {            
+            if(fast<=slow) return true;
+            else{
+                slow=slow->next;
+                fast=fast->next;
+            }
 
-        //     if(fast==NULL) return false;
-        // }
+            if(fast==NULL) return false;
+        }
 
-        // return false;
+        return false;
     }
 };
