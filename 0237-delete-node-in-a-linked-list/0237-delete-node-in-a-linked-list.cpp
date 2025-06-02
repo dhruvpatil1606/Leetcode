@@ -10,18 +10,6 @@ class Solution {
 public:
     void deleteNode(ListNode* node) {
 
-        // ListNode *ptr=node;
-        // ListNode *last=node;
-        // ptr=ptr->next;
-        // while(ptr->next)
-        // {
-        //     last->val=last->next->val;
-        //     ptr=ptr->next;
-        //     last=last->next;
-        // }
-        // last->val=ptr->val;
-        // last->next=NULL;
-
         ListNode *ptr=node;        
         ptr=ptr->next;
         while(ptr->next)
