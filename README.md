@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dhruvpatil1606/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/dhruvpatil1606/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dhruvpatil1606/Leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/dhruvpatil1606/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dhruvpatil1606/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dhruvpatil1606/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/1677-matrix-diagonal-sum) |
