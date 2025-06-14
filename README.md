@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dhruvpatil1606/Leetcode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/dhruvpatil1606/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dhruvpatil1606/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dhruvpatil1606/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
