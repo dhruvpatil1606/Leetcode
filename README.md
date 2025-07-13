@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/dhruvpatil1606/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0455-assign-cookies](https://github.com/dhruvpatil1606/Leetcode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvpatil1606/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dhruvpatil1606/Leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/dhruvpatil1606/Leetcode/tree/master/0455-assign-cookies) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhruvpatil1606/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dhruvpatil1606/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvpatil1606/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/dhruvpatil1606/Leetcode/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/dhruvpatil1606/Leetcode/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruvpatil1606/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dhruvpatil1606/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
