@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dhruvpatil1606/Leetcode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/dhruvpatil1606/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhruvpatil1606/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruvpatil1606/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dhruvpatil1606/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/dhruvpatil1606/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhruvpatil1606/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvpatil1606/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhruvpatil1606/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhruvpatil1606/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
