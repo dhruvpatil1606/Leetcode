@@ -12,30 +12,25 @@ class Solution {
 public:
     int getDecimalValue(ListNode* head) 
     {
-        vector<int> vec;
-
-        while(head)
+        ListNode* ptr=head;
+        int len=0;
+        while(ptr)
         {
-            vec.push_back(head->val);
-            head=head->next;
+            len++;
+            ptr=ptr->next;
         }
-        
-        for(int i=0; i<vec.size(); i++)
-        {
-            cout<<vec[i]<<" ";
-        }
-        cout<<endl;
 
-        int Raise=0,ans=0;
-        for(int i=vec.size()-1; i>=0; i--)
+        int Raise=len-1,ans=0;
+        ptr=head;
+        while(ptr)
         {
-            if(vec[i]==1)
+            if(ptr->val==1)
             {
                 ans=ans+pow(2,Raise);
             }
-            Raise++;
+            ptr=ptr->next;
+            Raise--;
         }
-        
         
         return ans;
     }
