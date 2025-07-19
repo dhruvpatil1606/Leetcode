@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvpatil1606/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1293-three-consecutive-odds](https://github.com/dhruvpatil1606/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/dhruvpatil1606/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dhruvpatil1606/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/dhruvpatil1606/Leetcode/tree/master/0006-zigzag-conversion) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/dhruvpatil1606/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruvpatil1606/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/dhruvpatil1606/Leetcode/tree/master/0100-same-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/dhruvpatil1606/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvpatil1606/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/dhruvpatil1606/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
