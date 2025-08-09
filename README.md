@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruvpatil1606/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/dhruvpatil1606/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dhruvpatil1606/Leetcode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/dhruvpatil1606/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/dhruvpatil1606/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhruvpatil1606/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dhruvpatil1606/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/dhruvpatil1606/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -209,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/dhruvpatil1606/Leetcode/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dhruvpatil1606/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
