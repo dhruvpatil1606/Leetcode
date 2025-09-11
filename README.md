@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dhruvpatil1606/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/dhruvpatil1606/Leetcode/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/dhruvpatil1606/Leetcode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/dhruvpatil1606/Leetcode/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dhruvpatil1606/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dhruvpatil1606/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
