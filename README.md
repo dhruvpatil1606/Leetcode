@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/dhruvpatil1606/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhruvpatil1606/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/dhruvpatil1606/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Enumeration
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/dhruvpatil1606/Leetcode/tree/master/0006-zigzag-conversion) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dhruvpatil1606/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/dhruvpatil1606/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/dhruvpatil1606/Leetcode/tree/master/3396-valid-word) |
