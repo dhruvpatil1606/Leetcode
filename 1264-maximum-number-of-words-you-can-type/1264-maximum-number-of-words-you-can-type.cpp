@@ -12,20 +12,13 @@ public:
         }
 
         vector<int> vec(26,0);
-
         for(int i=0; i<brokenLetters.length(); i++)
         {
             vec[brokenLetters[i]-'a']=1;
-        }
-        // for(int i=0; i<vec.size(); i++)
-        // {
-        //     cout<<vec[i]<<" ";
-        // }
-
+        }        
 
         total_worlds++; //atleast one word
-
-        // int written_words=0;
+        
         bool flag=false;
         for(int i=0; i<text.length(); i++)
         {
