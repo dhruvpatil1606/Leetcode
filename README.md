@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dhruvpatil1606/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dhruvpatil1606/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dhruvpatil1606/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dhruvpatil1606/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruvpatil1606/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dhruvpatil1606/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvpatil1606/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dhruvpatil1606/Leetcode/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruvpatil1606/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvpatil1606/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
