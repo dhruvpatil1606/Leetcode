@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvpatil1606/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0900-reordered-power-of-2](https://github.com/dhruvpatil1606/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvpatil1606/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/dhruvpatil1606/Leetcode/tree/master/0006-zigzag-conversion) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvpatil1606/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dhruvpatil1606/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvpatil1606/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
