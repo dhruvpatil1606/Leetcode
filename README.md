@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/dhruvpatil1606/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvpatil1606/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dhruvpatil1606/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvpatil1606/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dhruvpatil1606/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/dhruvpatil1606/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -258,4 +261,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvpatil1606/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
