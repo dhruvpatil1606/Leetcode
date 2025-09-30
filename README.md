@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dhruvpatil1606/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dhruvpatil1606/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruvpatil1606/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dhruvpatil1606/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3462-vowels-game-in-a-string](https://github.com/dhruvpatil1606/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dhruvpatil1606/Leetcode/tree/master/0258-add-digits) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dhruvpatil1606/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Greedy
 |  |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
