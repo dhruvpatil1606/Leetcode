@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhruvpatil1606/Leetcode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/dhruvpatil1606/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/dhruvpatil1606/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/dhruvpatil1606/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0054-spiral-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0777-toeplitz-matrix](https://github.com/dhruvpatil1606/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/dhruvpatil1606/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dhruvpatil1606/Leetcode/tree/master/0100-same-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2429-design-a-food-rating-system](https://github.com/dhruvpatil1606/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
