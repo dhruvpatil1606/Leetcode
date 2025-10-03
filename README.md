@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/dhruvpatil1606/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0058-length-of-last-word](https://github.com/dhruvpatil1606/Leetcode/tree/master/0058-length-of-last-word) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dhruvpatil1606/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvpatil1606/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dhruvpatil1606/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
