@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3639-zero-array-transformation-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/dhruvpatil1606/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dhruvpatil1606/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/dhruvpatil1606/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvpatil1606/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dhruvpatil1606/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/dhruvpatil1606/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dhruvpatil1606/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
