@@ -50,32 +50,7 @@ public:
             else continue;
             
             
-        }
-
-        // for(int i=0; i<vec.size(); i++)
-        // {
-        //     int tempDistance;
-            
-        //     sort(vec[i].rbegin(),vec[i].rend());
-            
-        //     if(vec[i].size()>2)
-        //     {
-        //         tempDistance=abs(vec[i][0]-vec[i][1])+abs(vec[i][1]-vec[i][2])+abs(vec[i][2]-vec[i][0]);
-        //         flag=true;
-        //     }
-        //     else continue;
-            
-        //     if(tempDistance<minDistance) minDistance=tempDistance;
-        // }
-
-        for(int i=0; i<vec.size(); i++)
-        {
-            for(int j=0; j<vec[i].size(); j++)
-            {
-                cout<<vec[i][j]<<" ";
-            }
-            cout<<"\n";
-        }
+        }        
 
         if(flag==false) return -1;
 
