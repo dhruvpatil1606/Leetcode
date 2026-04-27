@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhruvpatil1606/Leetcode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/dhruvpatil1606/Leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/dhruvpatil1606/Leetcode/tree/master/0455-assign-cookies) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvpatil1606/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvpatil1606/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dhruvpatil1606/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0219-contains-duplicate-ii](https://github.com/dhruvpatil1606/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0900-reordered-power-of-2](https://github.com/dhruvpatil1606/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dhruvpatil1606/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
