@@ -23,29 +23,23 @@ public:
             ptr=ptr->next;
         }
 
-        cout<<length<<endl;
         if(length==0 || k%length==0) return head;
 
         ptr=head;
-        // ListNode *swap=head;
 
         int remain=k%length;
-        cout<<remain<<endl;
         while(remain!=0)
         {
             int value=head->val;
             int nextValue;
             while(ptr->next)
             {
-                nextValue=ptr->next->val;
-                cout<<ptr->val<<" ";
+                nextValue=ptr->next->val;                
                 ptr=ptr->next;
                 ptr->val=value;
-
                 value=nextValue;
             }
-            head->val=nextValue;
-            cout<<head->val<<"\n";
+            head->val=nextValue;            
             ptr=head;
             remain--;
         }
