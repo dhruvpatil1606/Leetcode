@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/dhruvpatil1606/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1861-rotating-the-box](https://github.com/dhruvpatil1606/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/dhruvpatil1606/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dhruvpatil1606/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dhruvpatil1606/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/dhruvpatil1606/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/dhruvpatil1606/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/dhruvpatil1606/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/dhruvpatil1606/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruvpatil1606/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvpatil1606/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/dhruvpatil1606/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruvpatil1606/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dhruvpatil1606/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dhruvpatil1606/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
